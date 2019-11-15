@@ -4,7 +4,7 @@
 
 }
 body {
-    background-image: url(../CSS-sajt/images/bkg.jpg);
+    background-image: url(images/bkg.jpg);
     margin-left: 15%;
     margin-right: 15%;
     margin-top: 2%;
@@ -44,7 +44,7 @@ h1{
     float: right;
     font-size: 14px;
     line-height: 1.5;
-
+    overflow: hidden;
     list-style-type: none;
 
 }
@@ -82,7 +82,7 @@ article{
 }
 table{
 
-    margin-top: 20px;
+    margin-top: 5px;
 
     width: 100%;
     color: white;
@@ -94,7 +94,7 @@ table{
 }
 th{
     background-color: darkorange;
-    height: 120%;
+    height: 30px;
 }
 tr{
     padding: 10px;
@@ -156,6 +156,6 @@ img.logo{
     text-align: center;
     height: 40px;
     border-radius: 5px;
-    margin-top: 10px;
+
 
 }
